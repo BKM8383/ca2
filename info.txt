@@ -1,2 +1,4 @@
 Name: Bhupendra kumawat
 Father's Name: Magraj kumawat
+Specialization: B.tech CSE(full stack/devops)
+
